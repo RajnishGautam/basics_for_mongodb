@@ -1,0 +1,15 @@
+{
+  "name": "suretrust",
+  "version": "1.0.0",
+  "description": "Express JS teaching in Sure Trust",
+  "main": "indix.js",
+  "scripts": {
+    "test": "index"
+  },
+  "author": "Rajnish Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.0"
+  }
+}
